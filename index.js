@@ -29,12 +29,12 @@ function dec(n){
 
 function makeInt(n){
 parseInt()
-parseInt(n, 10)
+parseInt('n', 10)
   return (n);
 }
 
 function preserveDecimal(){
-  var p = parseFloat('n', 10);
-  return (p);
+  parseFloat('n');
+  return (n);
 }
 

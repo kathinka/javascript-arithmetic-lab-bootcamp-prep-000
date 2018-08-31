@@ -27,9 +27,10 @@ function dec(n){
   return(n);
 }
 
-function makeInt(){
-var p = parseInt('n', 10)
-  return (p);
+function makeInt(n){
+parseInt()
+parseInt(n, 10)
+  return (n);
 }
 
 function preserveDecimal(){

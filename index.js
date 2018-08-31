@@ -33,7 +33,7 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  parseFloat('n');
+  n = parseFloat('80.123999');
   return (n);
 }
 

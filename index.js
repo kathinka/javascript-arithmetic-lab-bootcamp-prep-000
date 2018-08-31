@@ -33,7 +33,7 @@ var p = parseInt('n', 10)
 }
 
 function preserveDecimal(){
-  var p = parseFloat('n');
+  var p = parseFloat('n', 10);
   return (p);
 }
 
